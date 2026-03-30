@@ -1,21 +1,21 @@
 # Aerial-Object-Classification-Detection
 
-Project Title     :  Aerial Object Classification & Detection
+Project Title     :    Aerial Object Classification & Detection
 
-Skills take away From This Project  :  Deep Learning,
+Skills take away From This Project  :       Deep Learning,
                                       
-                                      Computer Vision,
+                                            Computer Vision,
 
-                                      Image Classification & Object Detection,
+                                            Image Classification & Object Detection,
 
-                                     Python,
+                                            Python,
 
-                                     TensorFlow/Keras or PyTorch,
+                                            TensorFlow/Keras or PyTorch,
 
-                                     Data Preprocessing & Augmentation,
+                                            Data Preprocessing & Augmentation,
 
-                                     Model Evaluation,
+                                           Model Evaluation,
 
-                                     Streamlit Deployment
+                                           Streamlit Deployment
 
-Domain                          : Aerial Surveillance, Wildlife Monitoring, Security & Defense Applications
+Domain                          :    Aerial Surveillance, Wildlife Monitoring, Security & Defense Applications
